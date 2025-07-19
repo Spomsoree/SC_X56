@@ -1,5 +1,5 @@
-<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="Mine">
- <CustomisationUIHeader label="Mine" description="" image="">
+<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="Main">
+ <CustomisationUIHeader label="Main" description="" image="">
   <devices>
    <keyboard instance="1"/>
    <mouse instance="1"/>
@@ -247,7 +247,7 @@
  </actionmap>
  <actionmap name="spaceship_radar">
   <action name="v_invoke_ping">
-   <rebind input="js2_button1"/>
+   <rebind input="js2_button3"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_scanning">
@@ -258,7 +258,7 @@
    <rebind input="js2_button30"/>
   </action>
   <action name="v_scanning_trigger_scan">
-   <rebind input="js2_button3"/>
+   <rebind input="js1_button1"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_mining">
