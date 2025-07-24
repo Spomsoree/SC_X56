@@ -131,7 +131,13 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_master_mode_cycle">
-   <rebind input="js2_button26"/>
+   <rebind input="js2_ "/>
+  </action>
+  <action name="v_master_mode_set_nav">
+   <rebind input="js2_button35"/>
+  </action>
+  <action name="v_master_mode_set_scm">
+   <rebind input="js2_button34"/>
   </action>
   <action name="v_retract_landing_system">
    <rebind input="js2_button10"/>
